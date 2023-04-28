@@ -87,7 +87,7 @@ class App extends Component{
     } else {
       isTrue = true
     }
-    return {
+    return (
        <div className="main-container">
         <img 
           src="https://assets.ccbp.in/frontend/react-js/password-manager-logo-img.png"
